@@ -1,0 +1,15 @@
+identity:
+  author: aneasystone
+  name: calculator
+  label:
+    en_US: Calculator
+    zh_Hans: 计算器
+  description:
+    en_US: Calculator
+    zh_Hans: 计算器
+  icon: icon.svg
+tools:
+  - tools/add.yaml
+extra:
+  python:
+    source: provider/calculator.py
